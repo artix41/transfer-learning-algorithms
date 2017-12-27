@@ -1,3 +1,5 @@
+# A Visual Explanation of JDOT Algorithm
+
 A visual explanation on how JDOT works, obtained using the notebook hereby:
 
 ![gaussian-01](/jdot/screenshots/svm-1/with-legend/gaussian-01.png)
